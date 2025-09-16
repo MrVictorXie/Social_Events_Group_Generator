@@ -87,7 +87,7 @@ def simply_club(df,club):
     return df
 
 
-# These function are chatGPT Generated because I'm it'll take too long for me to read the documentation
+# These function are chatGPT Generated because it'll take too long for me to read the documentation
 def remove_substring_from_df(df: pd.DataFrame, substring: str) -> pd.DataFrame:
     """
     Remove a specific substring from all string values in a DataFrame.
